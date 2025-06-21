@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cybersecurity Enthusiast | Web3 Dev | Technical Writer</b><br>
-  Passionate about building cool things, solving problems, and automating workflows!
+  Passionate to build cool things, solve problems, and automate workflows!
 </p>
 
 <p align="center">
