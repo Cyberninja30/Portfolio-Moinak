@@ -1,12 +1,12 @@
-<h1 align="center">🌐 Moinak's Developer Portfolio</h1>
+<h1 align="center">🌐 Portfolio Glimpse</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Web Developer | Network Explorer</b><br>
+  <b>Cybersecurity Enthusiast | Web3 Dev | Technical Writer</b><br>
   Passionate about building cool things, solving problems, and automating workflows!
 </p>
 
 <p align="center">
-  <a href="https://your-vercel-url.vercel.app" target="_blank">🌎 Live Website</a> • 
+  <a href="[https://your-vercel-url.vercel.app](https://portfolio-moinak.vercel.app/)" target="_blank">🌎 Live Website</a> • 
   <a href="https://github.com/Cyberninja30/Portfolio-Moinak">📁 GitHub Repo</a> • 
   <a href="#-features">⚙️ Features</a> • 
   <a href="#-tech-stack">🛠 Tech Stack</a> • 
@@ -59,9 +59,6 @@ A full-fledged offensive security web app for recon, fuzzing, bruteforcing, web 
 
 ### 🌐 NetProbe  
 A structured networking lab platform offering interactive exercises from basic subnetting to advanced routing and firewall configs. I contributed to lab automation and scenario design using Cisco Packet Tracer.
-
-### 🔗 Blockchain Dev (Algorand)  
-Experience building DApps and smart contracts on Algorand using PyTeal, Reach, and the Algorand SDK. Implemented atomic transfers, ASA, and wallet integration with AlgoSigner.
 
 ---
 
