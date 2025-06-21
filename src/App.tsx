@@ -197,11 +197,12 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date pulse-glow">Dec. 2024</span>
               <div className="timeline-content">
-                <div className="timeline-title">Advanced Threat Hunting Platform</div>
-                <div className="timeline-underline">===============================</div>
+                <div className="timeline-title"> 🔌 StayOn </div>
+                <div className="timeline-underline">=======</div>
                 <div className="timeline-description">
-                  Developed custom threat hunting platform using Python & Elasticsearch that reduced incident response time by 60%. 
-                  Integrated with MISP for threat intelligence correlation: https://github.com/alexrodriguez/threat-hunter
+                  StayOn is a lightweight auto-login script that keeps you connected to Wi-Fi networks with captive portals by automatically detecting session expiry and 
+                  re-authenticating in the background using stored credentials. Built with Bash & Python, it ensures uninterrupted connectivity in hostel or campus 
+                  environments without manual intervention.
                 </div>
               </div>
             </div>
@@ -209,11 +210,12 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date">Oct. 2024</span>
               <div className="timeline-content">
-                <div className="timeline-title">Led Red Team Exercise for Fortune 500</div>
-                <div className="timeline-underline">===================================</div>
+                <div className="timeline-title"> 🤖 MissRobot </div>
+                <div className="timeline-underline">=========</div>
                 <div className="timeline-description">
-                  Conducted comprehensive red team assessment for major financial institution - identified critical vulnerabilities 
-                  in cloud infrastructure and provided strategic remediation roadmap. Engagement brief: https://cyberdefense.com/case-studies/redteam-2024
+                  A smart 403 Forbidden bypasser designed for ethical testing and research, capable of automating various header manipulations, path obfuscations, and method 
+                  tampering techniques to test access control weaknesses in web applications. Useful in CTFs and bug bounty scenarios to simulate bypass attempts on 
+                  protected endpoints.
                 </div>
               </div>
             </div>
@@ -221,11 +223,13 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date">Aug. 2024</span>
               <div className="timeline-content">
-                <div className="timeline-title">Spoke at DEF CON 32 & BSides</div>
-                <div className="timeline-underline">============================</div>
+                <div className="timeline-title"> 🛡️Vagnox </div>
+                <div className="timeline-underline">============</div>
                 <div className="timeline-description">
-                  Presented "Zero-Day Discovery in IoT Devices" at DEF CON and "Building Resilient SOCs" at BSides Las Vegas. 
-                  Recorded sessions: https://youtube.com/alexrodriguez/defcon32-talk
+                  Vagnox is a full-fledged offensive security web application designed to automate and streamline the entire vulnerability assessment workflow. From initial 
+                  reconnaissance and subdomain enumeration to directory fuzzing, bruteforce attacks, and web cache deception, Vagnox offers a unified interface for executing 
+                  and managing a wide range of attack vectors. It features real-time scanning, custom wordlists, HTTP header manipulation, and intelligent reporting. It 
+                  simplifies complex testing scenarios into a seamless, browser-based experience.
                 </div>
               </div>
             </div>
@@ -233,11 +237,14 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date">Jun. 2024</span>
               <div className="timeline-content">
-                <div className="timeline-title">OSCP Certification Achieved</div>
+                <div className="timeline-title"> 🌐 NetProbe </div>
                 <div className="timeline-underline">===========================</div>
                 <div className="timeline-description">
-                  Successfully completed Offensive Security Certified Professional certification after 6 months of intensive 
-                  preparation. Demonstrated advanced penetration testing skills across multiple environments.
+                  NetProbe is a structured computer networking platform that provides a series of progressively challenging labs to help users develop and validate their 
+                  networking skills—from foundational concepts to advanced protocol implementations. The platform includes hands-on labs covering Layer 2/3 configurations, 
+                  dynamic and static routing, VLANs, subnetting, NAT, DHCP, ACLs, and more. I contributed to the lab architecture and scenario design using Cisco Packet 
+                  Tracer, where I automated topologies, implemented fault injection for troubleshooting exercises, and simulated real-world network setups involving various 
+                  routing and switching protocols. 
                 </div>
               </div>
             </div>
