@@ -46,22 +46,6 @@
 
 ---
 
-## 🧠 Projects Showcased
-
-### 🔌 StayOn  
-A Wi-Fi auto-login script for captive portal networks that detects disconnection and automatically re-authenticates using stored credentials. Built with Bash/Python for a seamless, interruption-free experience.
-
-### 🤖 MissRobot  
-A 403 Forbidden bypasser for ethical testing that automates header tampering, path fuzzing, and method-based access control bypass techniques. Built for CTFs and security labs.
-
-### 🛡 Vagnox  
-A full-fledged offensive security web app for recon, fuzzing, bruteforcing, web cache deception, and vulnerability scanning. Includes real-time reporting, custom payloads, and protocol simulation.
-
-### 🌐 NetProbe  
-A structured networking lab platform offering interactive exercises from basic subnetting to advanced routing and firewall configs. I contributed to lab automation and scenario design using Cisco Packet Tracer.
-
----
-
 ## 🚀 Getting Started
 
 ```bash
