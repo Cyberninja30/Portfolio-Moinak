@@ -18,7 +18,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="./Screenshot.png" width="90%" alt="Portfolio Preview" />
+  <img src="./Screenshot from 2025-06-22 00-37-10.png" width="90%" alt="Portfolio Preview" />
 </p>
 
 ---
