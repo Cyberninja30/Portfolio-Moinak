@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://your-vercel-url.vercel.app](https://portfolio-moinak.vercel.app/)" target="_blank">🌎 Live Website</a> • 
+  <a href="![](https://your-vercel-url.vercel.app](https://portfolio-moinak.vercel.app/)" target="_blank">🌎 Live Website</a> • 
   <a href="https://github.com/Cyberninja30/Portfolio-Moinak">📁 GitHub Repo</a> • 
   <a href="#-features">⚙️ Features</a> • 
   <a href="#-tech-stack">🛠 Tech Stack</a> • 
