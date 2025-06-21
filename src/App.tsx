@@ -223,8 +223,8 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date">Aug. 2024</span>
               <div className="timeline-content">
-                <div className="timeline-title"> 🛡️Vagnox </div>
-                <div className="timeline-underline">============</div>
+                <div className="timeline-title"> 🛡️ Vagnox </div>
+                <div className="timeline-underline">======</div>
                 <div className="timeline-description">
                   Vagnox is a full-fledged offensive security web application designed to automate and streamline the entire vulnerability assessment workflow. From initial 
                   reconnaissance and subdomain enumeration to directory fuzzing, bruteforce attacks, and web cache deception, Vagnox offers a unified interface for executing 
@@ -238,7 +238,7 @@ function App() {
               <span className="timeline-date">Jun. 2024</span>
               <div className="timeline-content">
                 <div className="timeline-title"> 🌐 NetProbe </div>
-                <div className="timeline-underline">===========================</div>
+                <div className="timeline-underline">========</div>
                 <div className="timeline-description">
                   NetProbe is a structured computer networking platform that provides a series of progressively challenging labs to help users develop and validate their 
                   networking skills—from foundational concepts to advanced protocol implementations. The platform includes hands-on labs covering Layer 2/3 configurations, 
@@ -270,14 +270,16 @@ function App() {
             </div>
 
             <div className="skill-category">
-              <h3>Defensive Security</h3>
+              <h3>Blockchain Development</h3>
               <ul className="skill-list">
-                <li>Incident Response</li>
-                <li>Threat Hunting</li>
-                <li>SIEM Management</li>
-                <li>Digital Forensics</li>
-                <li>Security Monitoring</li>
-                <li>Malware Analysis</li>
+                <li>Smart Contracts on Algorand (PyTeal, Reach)</li>
+                <li>Algorand SDKs (Python, JavaScript, Go)</li>
+                <li>ASA & NFT Creationt</li>
+                <li>DApp Development with AlgoSigner / WalletConnect</li>
+                <li>Atomic Transfers & Group Transactions</li>
+                <li>Smart Contract Testing with Algokit</li>
+                <li>Indexer & Algod API Integration</li>
+                <li>On-chain Logic Optimization</li>
               </ul>
             </div>
 
@@ -302,18 +304,6 @@ function App() {
                 <li>SQL Injection Techniques</li>
                 <li>C/C++ (Exploit Development)</li>
                 <li>Go (Security Tools)</li>
-              </ul>
-            </div>
-
-            <div className="skill-category">
-              <h3>Cloud Security</h3>
-              <ul className="skill-list">
-                <li>AWS Security Services</li>
-                <li>Azure Security Center</li>
-                <li>GCP Security Command</li>
-                <li>Container Security</li>
-                <li>Kubernetes Security</li>
-                <li>Infrastructure as Code</li>
               </ul>
             </div>
 
