@@ -155,7 +155,7 @@ function App() {
             <a href="#skills">skills</a>
             <a href="#certifications">certifications</a>
             <a href="#contact">contact</a>
-            <a href="#resume.pdf">resume.pdf</a>
+            <a href="/Moinak_Resume.pdf" target="_blank" rel="noopener noreferrer">📄 Resume</a>
           </nav>
         </header>
 
@@ -173,15 +173,15 @@ function App() {
             <div className="profile-info">
               <p>Hi, I am <strong className="pulse-glow">Moinak Niyogi</strong>,<p> love to learn new things and build cool stuffs</p> </p>
               <br />
-              <p>Intern @ <a href="#">Haryana Police Cyber Cell</a></p>
-              <p>Secreatry & RD Lead @ <a href="#">Association for Cyber Security</a></p>
+              <p>Intern @ <a href="#">Haryana Police</a></p>
+              <p>Secretary & RD Lead @ <a href="#">Association for Cyber Security(ACS)</a></p>
               <p>Mentor @ <a href="#">Albus Security</a></p>
               <p>Ex-Research Intern @ <a href="#">IIIT Kalyani</a></p>
               <div style={{marginTop: '15px'}}>
                 
                 <span className="typing-indicator">
                   
-                  
+          
                 </span>
               </div>
             </div>
@@ -262,7 +262,6 @@ function App() {
               <ul className="skill-list">
                 <li>Penetration Testing</li>
                 <li>Vulnerability Assessment</li>
-                <li>Red Team Operations</li>
                 <li>Social Engineering</li>
                 <li>Exploit Development</li>
                 <li>Web Application Security</li>
@@ -270,27 +269,14 @@ function App() {
             </div>
 
             <div className="skill-category">
-              <h3>Blockchain Development</h3>
-              <ul className="skill-list">
-                <li>Smart Contracts on Algorand (PyTeal, Reach)</li>
-                <li>Algorand SDKs (Python, JavaScript, Go)</li>
-                <li>ASA & NFT Creationt</li>
-                <li>DApp Development with AlgoSigner / WalletConnect</li>
-                <li>Atomic Transfers & Group Transactions</li>
-                <li>Smart Contract Testing with Algokit</li>
-                <li>Indexer & Algod API Integration</li>
-                <li>On-chain Logic Optimization</li>
-              </ul>
-            </div>
-
-            <div className="skill-category">
               <h3>Security Tools</h3>
               <ul className="skill-list">
                 <li>Metasploit Framework</li>
-                <li>Burp Suite Professional</li>
+                <li>Burp Suite</li>
+                <li>Maltego</li>
                 <li>Nmap & Nessus</li>
                 <li>Wireshark & tcpdump</li>
-                <li>Splunk & ELK Stack</li>
+                <li>Splunk & Wifite</li>
                 <li>Kali Linux & Parrot OS</li>
               </ul>
             </div>
@@ -298,12 +284,12 @@ function App() {
             <div className="skill-category">
               <h3>Programming & Scripting</h3>
               <ul className="skill-list">
-                <li>Python (Security Automation)</li>
-                <li>PowerShell & Bash</li>
-                <li>JavaScript (Web Security)</li>
+                <li>Python</li>
+                <li>Shell</li>
+                <li>JavaScript</li>
                 <li>SQL Injection Techniques</li>
-                <li>C/C++ (Exploit Development)</li>
-                <li>Go (Security Tools)</li>
+                <li>C++</li>
+                <li>Go & lua</li>
               </ul>
             </div>
 
@@ -319,6 +305,20 @@ function App() {
               </ul>
             </div>
           </div>
+
+           <div className="skill-category">
+              <h3>Blockchain Development</h3>
+              <ul className="skill-list">
+                <li>Smart Contracts on Algorand</li>
+                <li>Algorand SDKs</li>
+                <li>ASA & NFT Creationt</li>
+                <li>DApp Development</li>
+                <li>Atomic Transfers & Group Transactions</li>
+                <li>Smart Contract Testing with Algokit</li>
+                <li>Indexer & Algod API Integration</li>
+                <li>On-chain Logic Optimization</li>
+              </ul>
+            </div>
         </section>
 
         {/* Certifications Section */}
