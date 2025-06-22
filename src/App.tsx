@@ -323,8 +323,8 @@ function App() {
 
         {/* Certifications Section */}
         
-        <section id="certifications">
-          <h2 className="section-title glitch-text" data-text="Certifications & Achievements">Certifications & Achievements</h2>
+        <section id="Achievements">
+          <h2 className="section-title glitch-text" data-text="Certifications &Achievements">Achievements</h2>
           <div className="section-underline">==============================</div>
           
           <div className="timeline-section">
