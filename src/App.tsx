@@ -322,6 +322,7 @@ function App() {
         </section>
 
         {/* Certifications Section */}
+        
         <section id="certifications">
           <h2 className="section-title glitch-text" data-text="Certifications & Achievements">Certifications & Achievements</h2>
           <div className="section-underline">==============================</div>
