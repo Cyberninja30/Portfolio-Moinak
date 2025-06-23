@@ -195,56 +195,53 @@ function App() {
           
           <div className="timeline-section">
             <div className="timeline-item">
-              <span className="timeline-date pulse-glow">Dec. 2024</span>
+              <span className="timeline-date pulse-glow">2017</span>
               <div className="timeline-content">
-                <div className="timeline-title"> 🔌 StayOn </div>
-                <div className="timeline-underline">=======</div>
+                <div className="timeline-title"> First Lines of Code </div>
+                <div className="timeline-underline">=================</div>
                 <div className="timeline-description">
-                  StayOn is a lightweight auto-login script that keeps you connected to Wi-Fi networks with captive portals by automatically detecting session expiry and 
-                  re-authenticating in the background using stored credentials. Built with Bash & Python, it ensures uninterrupted connectivity in hostel or campus 
-                  environments without manual intervention.
+                  1. Began programming with C and C++, exploring basic logic, loops, and file handling.
+                  2. Built small programs like calculators, grade systems, and pattern generators.
                 </div>
               </div>
             </div>
 
             <div className="timeline-item">
-              <span className="timeline-date">Oct. 2024</span>
+              <span className="timeline-date">2019</span>
               <div className="timeline-content">
-                <div className="timeline-title"> 🤖 MissRobot </div>
-                <div className="timeline-underline">=========</div>
+                <div className="timeline-title"> Python Enters the Picture </div>
+                <div className="timeline-underline">=======================</div>
                 <div className="timeline-description">
-                  A smart 403 Forbidden bypasser designed for ethical testing and research, capable of automating various header manipulations, path obfuscations, and method 
-                  tampering techniques to test access control weaknesses in web applications. Useful in CTFs and bug bounty scenarios to simulate bypass attempts on 
-                  protected endpoints.
+                  1. Started learning Python, focusing on functions, data structures, and modules.
+                  2. Gained a strong foundation in writing clean and efficient code.
                 </div>
               </div>
             </div>
 
             <div className="timeline-item">
-              <span className="timeline-date">Aug. 2024</span>
+              <span className="timeline-date">2020</span>
               <div className="timeline-content">
-                <div className="timeline-title"> 🛡️ Vagnox </div>
-                <div className="timeline-underline">======</div>
+                <div className="timeline-title"> First Web Application: Library Management System </div>
+                <div className="timeline-underline">=============================================</div>
                 <div className="timeline-description">
-                  Vagnox is a full-fledged offensive security web application designed to automate and streamline the entire vulnerability assessment workflow. From initial 
-                  reconnaissance and subdomain enumeration to directory fuzzing, bruteforce attacks, and web cache deception, Vagnox offers a unified interface for executing 
-                  and managing a wide range of attack vectors. It features real-time scanning, custom wordlists, HTTP header manipulation, and intelligent reporting. It 
-                  simplifies complex testing scenarios into a seamless, browser-based experience.
+                  1. Built my first full-stack project — a Library Management System.
+                  2. Tech Stack: Python (backend) + MySQL (database).
+                  3. Features included user login, book issuance/returns, and admin dashboard.
+                  4. Marked my entry into real-world application development.
                 </div>
               </div>
             </div>
 
             <div className="timeline-item">
-              <span className="timeline-date">Jun. 2024</span>
+              <span className="timeline-date">2022</span>
               <div className="timeline-content">
-                <div className="timeline-title"> 🌐 NetProbe </div>
-                <div className="timeline-underline">========</div>
+                <div className="timeline-title">Expanding Horizons</div>
+                <div className="timeline-underline">=================</div>
                 <div className="timeline-description">
-                  NetProbe is a structured computer networking platform that provides a series of progressively challenging labs to help users develop and validate their 
-                  networking skills—from foundational concepts to advanced protocol implementations. The platform includes hands-on labs covering Layer 2/3 configurations, 
-                  dynamic and static routing, VLANs, subnetting, NAT, DHCP, ACLs, and more. I contributed to the lab architecture and scenario design using Cisco Packet 
-                  Tracer, where I automated topologies, implemented fault injection for troubleshooting exercises, and simulated real-world network setups involving various 
-                  routing and switching protocols. 
+                  1. Started exploring blockchain development.
+                  2. Learned about smart contracts, wallets, and Web3 architecture.
+                  3. As a summer trainee at Metacrafters, built Web3 applications with practical use-cases.
+                  4. Build AlgoPool on the Algorand Ecosystem, and decentralized protocols.
                 </div>
               </div>
             </div>
