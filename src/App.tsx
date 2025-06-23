@@ -344,9 +344,18 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date pulse-glow">2024</span>
               <div className="timeline-content">
-                <div className="timeline-title">Offensive Security Certified Professional (OSCP)</div>
+                <div className="timeline-title">🥇 Winner – Project Expo 2024</div>
                 <div className="timeline-description">
-                  Advanced penetration testing certification - hands-on 24-hour exam demonstrating real-world exploitation skills
+                  Secured 1st place in the Interdisciplinary Category
+                </div>
+                <div className="timeline-title">🥇 Winner – EEP 2024</div>
+                 <div className="timeline-description">
+                  Clinched 1st place in EEP
+                </div>
+
+                <div className="timeline-title">Certified Algorand Developer</div>
+                <div className="timeline-description">
+                  Completed Algorand Developer Bootcamp 2024
                 </div>
               </div>
             </div>
@@ -354,9 +363,9 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date">2023</span>
               <div className="timeline-content">
-                <div className="timeline-title">Certified Information Systems Security Professional (CISSP)</div>
+                <div className="timeline-title">🏅 Top 5 – BFCET Hack 1.0</div>
                 <div className="timeline-description">
-                  Industry-leading certification covering 8 domains of cybersecurity knowledge and management
+                  Ranked among the top 5 teams in BFCET Hackathon 1.0 for building a high-impact project under time constraints.
                 </div>
               </div>
             </div>
@@ -364,9 +373,9 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date">2022</span>
               <div className="timeline-content">
-                <div className="timeline-title">Certified Ethical Hacker (CEH) v12</div>
+                <div className="timeline-title">🏅 3rd Position – Hack Bengal 3.0</div>
                 <div className="timeline-description">
-                  Comprehensive ethical hacking certification covering latest attack vectors and defensive countermeasures
+                  Secured 3rd position at Hack Bengal 3.0, demonstrating skills in collaborative development and innovative thinking.
                 </div>
               </div>
             </div>
@@ -374,9 +383,9 @@ function App() {
             <div className="timeline-item">
               <span className="timeline-date">2021</span>
               <div className="timeline-content">
-                <div className="timeline-title">AWS Certified Security - Specialty</div>
+                <div className="timeline-title">🥈 2nd Place – ACM India East Hackathon, Kolkata </div>
                 <div className="timeline-description">
-                  Advanced cloud security certification demonstrating expertise in securing AWS workloads and infrastructure
+                  Secured 2nd position for developing an innovative tech solution in a 24-hour coding sprint.
                 </div>
               </div>
             </div>
