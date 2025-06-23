@@ -200,9 +200,8 @@ function App() {
                 <div className="timeline-title"> First Lines of Code </div>
                 <div className="timeline-underline">=================</div>
                 <div className="timeline-description">
-                  1. Began programming with C and C++, exploring basic logic, loops, and file handling.
-                  
-                  2. Built small programs like calculators, grade systems, and pattern generators.
+                  <p>1. Began programming with C and C++, exploring basic logic, loops, and file handling.</p>
+                  <p>2. Built small programs like calculators, grade systems, and pattern generators.</p>
                 </div>
               </div>
             </div>
@@ -213,9 +212,8 @@ function App() {
                 <div className="timeline-title"> Python Enters the Picture </div>
                 <div className="timeline-underline">=======================</div>
                 <div className="timeline-description">
-                  1. Started learning Python, focusing on functions, data structures, and modules.
-                  
-                  2. Gained a strong foundation in writing clean and efficient code.
+                   <p> 1. Started learning Python, focusing on functions, data structures, and modules.</p>
+                   <p> 2. Gained a strong foundation in writing clean and efficient code.</p>
                 </div>
               </div>
             </div>
@@ -226,13 +224,10 @@ function App() {
                 <div className="timeline-title"> First Web Application: Library Management System </div>
                 <div className="timeline-underline">=============================================</div>
                 <div className="timeline-description">
-                  1. Built my first full-stack project — a Library Management System.
-                  
-                  2. Tech Stack: Python (backend) + MySQL (database).
-                  
-                  3. Features included user login, book issuance/returns, and admin dashboard.
-                  
-                  4. Marked my entry into real-world application development.
+                   <p> 1. Built my first full-stack project — a Library Management System.</p>
+                   <p> 2. Tech Stack: Python (backend) + MySQL (database).</p>
+                   <p> 3. Features included user login, book issuance/returns, and admin dashboard.</p>
+                   <p> 4. Marked my entry into real-world application development.</p>
                 </div>
               </div>
             </div>
@@ -243,13 +238,29 @@ function App() {
                 <div className="timeline-title">Expanding Horizons</div>
                 <div className="timeline-underline">=================</div>
                 <div className="timeline-description">
-                  <p>1. Started exploring blockchain development.</p>
-                  <p>2. Learned about smart contracts, wallets, and Web3 architecture.</p>
-                  <p>3. As a summer trainee at Metacrafters, built Web3 applications with practical use-cases.</p>
-                  <p>4. Built AlgoPool on the Algorand Ecosystem and decentralized protocols.</p>
+                  <p> 1. Started exploring blockchain development.</p>
+                  <p> 2. Learned about smart contracts, wallets, and Web3 architecture.</p>
+                  <p> 3. As a summer trainee at Metacrafters, built Web3 applications with practical use-cases.</p>
+                  <p> 4. Built AlgoPool on the Algorand Ecosystem and decentralized protocols.</p>
                 </div>
               </div>
             </div>
+
+            <div className="timeline-item">
+              <span className="timeline-date">2023</span>
+              <div className="timeline-content">
+                <div className="timeline-title">Cybersecurity came into action</div>
+                <div className="timeline-underline">=================</div>
+                <div className="timeline-description">
+                  <p> 1. Started learning and exploring Operating Systems and Computer Networks in-depth.</p>
+                  <p> 2. Began my journey into bug bounty hunting, read POCs , articles and reports. understood real-world attack vectors.</p>
+                  <p> 3. Reported my first bug to GeeksforGeeks worth $250 — an OAuth 2.0 authorization flaw.</p>
+                  <p> 4. Explored and practiced vulnerabilities like IDOR, SSRF, CSRF, XSS, and SQL Injection.</p>
+                  <p> 5. Tested and submitted findings through VDP programs on platforms like Bugcrowd, HackerOne, and PortSwigger Labs.</p>
+                </div>
+              </div>
+            </div>
+            
           </div>
         </section>
 
