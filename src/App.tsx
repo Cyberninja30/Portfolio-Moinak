@@ -191,7 +191,7 @@ function App() {
         {/* Life Updates Section */}
         <section id="timeline">
           <h2 className="section-title glitch-text" data-text="timeline">timeline<span style={{color: 'var(--terminal-muted)'}}></span></h2>
-          <div className="section-underline">==================</div>
+          <div className="section-underline">============</div>
           
           <div className="timeline-section">
             <div className="timeline-item">
@@ -243,13 +243,10 @@ function App() {
                 <div className="timeline-title">Expanding Horizons</div>
                 <div className="timeline-underline">=================</div>
                 <div className="timeline-description">
-                  1. Started exploring blockchain development.
-                  
-                  2. Learned about smart contracts, wallets, and Web3 architecture.
-                  
-                  3. As a summer trainee at Metacrafters, built Web3 applications with practical use-cases.
-                  
-                  4. Build AlgoPool on the Algorand Ecosystem, and decentralized protocols.
+                  <p>1. Started exploring blockchain development.</p>
+                  <p>2. Learned about smart contracts, wallets, and Web3 architecture.</p>
+                  <p>3. As a summer trainee at Metacrafters, built Web3 applications with practical use-cases.</p>
+                  <p>4. Built AlgoPool on the Algorand Ecosystem and decentralized protocols.</p>
                 </div>
               </div>
             </div>
