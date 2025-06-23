@@ -299,7 +299,7 @@ function App() {
               <ul className="skill-list">
                 <li>Python</li>
                 <li>Shell</li>
-                <li>JavaScript</li>
+                <li>TypeScript</li>
                 <li>SQL Injection Techniques</li>
                 <li>C++</li>
                 <li>Go & lua</li>
