@@ -201,6 +201,7 @@ function App() {
                 <div className="timeline-underline">=================</div>
                 <div className="timeline-description">
                   1. Began programming with C and C++, exploring basic logic, loops, and file handling.
+                  
                   2. Built small programs like calculators, grade systems, and pattern generators.
                 </div>
               </div>
@@ -213,6 +214,7 @@ function App() {
                 <div className="timeline-underline">=======================</div>
                 <div className="timeline-description">
                   1. Started learning Python, focusing on functions, data structures, and modules.
+                  
                   2. Gained a strong foundation in writing clean and efficient code.
                 </div>
               </div>
@@ -225,8 +227,11 @@ function App() {
                 <div className="timeline-underline">=============================================</div>
                 <div className="timeline-description">
                   1. Built my first full-stack project — a Library Management System.
+                  
                   2. Tech Stack: Python (backend) + MySQL (database).
+                  
                   3. Features included user login, book issuance/returns, and admin dashboard.
+                  
                   4. Marked my entry into real-world application development.
                 </div>
               </div>
@@ -239,8 +244,11 @@ function App() {
                 <div className="timeline-underline">=================</div>
                 <div className="timeline-description">
                   1. Started exploring blockchain development.
+                  
                   2. Learned about smart contracts, wallets, and Web3 architecture.
+                  
                   3. As a summer trainee at Metacrafters, built Web3 applications with practical use-cases.
+                  
                   4. Build AlgoPool on the Algorand Ecosystem, and decentralized protocols.
                 </div>
               </div>
